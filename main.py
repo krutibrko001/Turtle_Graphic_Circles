@@ -35,6 +35,6 @@ for i in range(plus_count):
             turtle.circle(i)
 
 
-
+print("Hello")
 
 screen.exitonclick()
