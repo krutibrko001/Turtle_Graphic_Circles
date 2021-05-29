@@ -34,8 +34,6 @@ for i in range(plus_count):
             turtle.right(10)
             turtle.circle(i)
 
-print("test")
-
 
 
 
